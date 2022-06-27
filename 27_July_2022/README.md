@@ -2,7 +2,7 @@
 
 ## Question:
 
-Find the first lartest, second largest and the third largest values from an integer array
+Find the first largest, second largest and the third largest values from an integer array. You have to handle the error conditions without using the throwing exceptions. Also, have a little mercy on the users. 😀
 
 ## Solution! (Used language: Java)
 
