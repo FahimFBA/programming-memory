@@ -17,7 +17,16 @@ public class Main {
         // if the size is negative, then terminate
         if (size < 0) {
             System.out.println("The size can not be negative!");
-            System.exit(1);
+            System.out.println("Type yes only if you want to try again: ");
+            String string = scanner.next().toLowerCase(); // make all in lowercase so that I won't need to worry about yes/Yes/yeS/...etc.
+            // check whether the user wants to try again or not.
+            if (string.equals("yes")) {
+                System.out.println("How many integer numbers are there: ");
+                size = scanner.nextInt();
+            }
+            else
+                // if the user type anything else other than yes, it would terminate the program
+                System.exit(1);
         }
         int[] array = new int[size];
         for (int i = 0; i < size; i++)
