@@ -5,9 +5,9 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("How many integer numbers are there: ");
         int size = scanner.nextInt();
-        // if the size is negative, then terminate
-        if (size < 0) {
-            System.out.println("The size can not be negative!");
+        // if the size is negative or zero and the user doesn't want to proceed, then terminate
+        if (size < 0 || size == 0) {
+            System.out.println("The size can not be negative or zero!");
             System.out.println("Type yes only if you want to try again: ");
             String string = scanner.next().toLowerCase(); // make all in lowercase so that I won't need to worry about yes/Yes/yeS/...etc.
             // check whether the user wants to try again or not.
