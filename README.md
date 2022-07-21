@@ -2,6 +2,8 @@
 
 A collection of all the random programming codes that I'm gonna use in my YouTube channel. 🎥
 
+[![pages-build-deployment](https://github.com/FahimFBA/programming-memory/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/FahimFBA/programming-memory/actions/workflows/pages/pages-build-deployment)
+
 ## ⭐ the repo to show some love and to tell that you care!
 
 | Index | Topic                                                                                 | Programming Language | Directory                     | YouTube Link                                                     | Article Link |
