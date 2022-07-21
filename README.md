@@ -1,8 +1,8 @@
-# programming-memory :smiley:
+# programming-memory 😊
 
-A collection of all the random programming codes that I'm gonna use in my YouTube channel. :movie_camera:
+A collection of all the random programming codes that I'm gonna use in my YouTube channel. 🎥
 
-## :star: the repo to show some love and to tell that you care!
+## ⭐ the repo to show some love and to tell that you care!
 
 | Index | Topic                                                                                 | Programming Language | Directory                     | YouTube Link                                                     | Article Link |
 | ----- | ------------------------------------------------------------------------------------- | -------------------- | ----------------------------- | ---------------------------------------------------------------- | ------------ |
